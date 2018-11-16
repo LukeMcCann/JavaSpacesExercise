@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="299" />
+    <option name="y" value="27" />
+    <option name="width" value="879" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542382567593" />
+    <property name="last_opened_file_path" value="/local/apache-river-3.0.0/lib-dl/reggie-dl.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RegisterForAvailabilityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegisterForAvailabilityTest" />
+      <module name="JavaSpaceRegisterForAvailabilityDemo" />
+      <option name="PROGRAM_PARAMETERS" value="-Djava.security.policy=policy.all -Djava.rmi.server.useCodebaseOnly=false " />
+      <option name="VM_PARAMETERS" value="-Djava.security.policy=policy.all -Djava.rmi.server.useCodebaseOnly=false " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RegisterForAvailabilityTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

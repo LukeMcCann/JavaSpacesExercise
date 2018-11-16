@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07a698ed-6309-48a5-bb94-3f28f64d8c05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../NotifyTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NotifyTutorial/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotifyTutorial/NotifyTutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NotifyTutorial/NotifyTutorial.iml" afterDir="false" />
+    <list default="true" id="1c88160d-e56d-439b-9f0d-d609e33022cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyTutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyTutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpacesQueueSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpacesQueueSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpacesQueueSolution/out/production/SpacesQueueSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpacesQueueSolution/out/production/SpacesQueueSolution/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,62 +15,69 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1262168845">
+    <session id="920280351">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="5" />
-          <entry key="txt" value="1" />
+          <entry key="RunHelloWorldNotify" value="1" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="9" />
-          <entry key="txt" value="129" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="138" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloWorldNotify.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloWorldSpace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RunHelloWorldNotify">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/LMPrinterQueueItem.java" />
-        <option value="$PROJECT_DIR$/essential.txt" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="299" />
+    <option name="x" value="67" />
     <option name="y" value="27" />
-    <option name="width" value="889" />
+    <option name="width" value="907" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,26 +88,26 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SpacesQueueSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpacesQueueSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="NotifyTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NotifyTutorial" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542376705360" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542382407744" />
     <property name="last_opened_file_path" value="/local/apache-river-3.0.0/lib-dl/reggie-dl.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,33 +121,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintJobPrinter">
-    <configuration name="PrintJobAdder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintJobAdder" />
-      <module name="SpacesQueueSolution" />
-      <option name="PROGRAM_PARAMETERS" value="-Djava.security.policy=policy.all -Djava.rmi.server.useCodebaseOnly=false" />
-      <option name="VM_PARAMETERS" value="-Djava.security.policy=policy.all -Djava.rmi.server.useCodebaseOnly=false" />
+  <component name="RunManager" selected="Application.HelloWorldSpace">
+    <configuration name="HelloWorldNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorldNotify" />
+      <module name="NotifyTutorial" />
+      <option name="PROGRAM_PARAMETERS" value="java -Djava.security.policy=policy.all -Djava.rmi.server.useCodebaseOnly=false HelloWorldSpace" />
+      <option name="VM_PARAMETERS" value="java -Djava.security.policy=policy.all -Djava.rmi.server.useCodebaseOnly=false HelloWorldSpace" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintJobPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintJobPrinter" />
-      <module name="SpacesQueueSolution" />
-      <option name="PROGRAM_PARAMETERS" value="-Djava.security.policy=policy.all -Djava.rmi.server.useCodebaseOnly=false" />
-      <option name="VM_PARAMETERS" value="-Djava.security.policy=policy.all -Djava.rmi.server.useCodebaseOnly=false" />
+    <configuration name="HelloWorldSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorldSpace" />
+      <module name="NotifyTutorial" />
+      <option name="PROGRAM_PARAMETERS" value="java -Djava.security.policy=policy.all -Djava.rmi.server.useCodebaseOnly=false HelloWorldSpace" />
+      <option name="VM_PARAMETERS" value="java -Djava.security.policy=policy.all -Djava.rmi.server.useCodebaseOnly=false HelloWorldSpace" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrintJobAdder" />
-      <item itemvalue="Application.PrintJobPrinter" />
+      <item itemvalue="Application.HelloWorldSpace" />
+      <item itemvalue="Application.HelloWorldNotify" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintJobPrinter" />
-        <item itemvalue="Application.PrintJobAdder" />
+        <item itemvalue="Application.HelloWorldSpace" />
+        <item itemvalue="Application.HelloWorldNotify" />
       </list>
     </recent_temporary>
   </component>
@@ -147,18 +156,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="07a698ed-6309-48a5-bb94-3f28f64d8c05" name="Default Changelist" comment="" />
-      <created>1542375526264</created>
+      <changelist id="1c88160d-e56d-439b-9f0d-d609e33022cc" name="Default Changelist" comment="" />
+      <created>1542381439883</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542375526264</updated>
+      <updated>1542381439883</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="299" y="27" width="899" height="1053" extended-state="4" />
+    <frame x="67" y="27" width="917" height="1053" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2672919" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24799082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -172,7 +181,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32983682" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -190,48 +199,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SpacesQueueSolution.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StartPrintQueue.java">
+    <entry file="file://$PROJECT_DIR$/RunHelloWorldNotify">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpaceUtils.java">
+    <entry file="file://$PROJECT_DIR$/HelloWorldSpace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="15">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PrintJobPrinter.java">
+    <entry file="file://$PROJECT_DIR$/HelloWorldNotify.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/essential.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PrintJobAdder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LMPrinterQueueItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="120">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -287,7 +275,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>SpacesQueueSolution</last-edited>
+          <last-edited>NotifyTutorial</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
