@@ -99,7 +99,7 @@ public class PrintJobAdder extends JFrame {
 			int jobNumber = qStatus.nextJob;
 			String jobName = jobNameIn.getText();
 			String printerName = printerNameIn.getText();   //  Added to get the destination printer name
-			NamedPrinterQueueItem newJob = new NamedPrinterQueueItem(jobNumber, jobName, printerName);  // Edited to pass the destination printer name as an extra parameter
+			LMPrinterQueueItem newJob = new LMPrinterQueueItem(jobNumber, jobName, printerName);  // Edited to pass the destination printer name as an extra parameter
 			space.write( newJob, null, Lease.FOREVER);
 			jobNumberOut.setText(""+jobNumber);
 

@@ -49,9 +49,9 @@ public class PrintJobPrinter extends JFrame {
     public void processPrintJobs(){
         while(true){
             try {
-                NamedPrinterQueueItem qiTemplate = new NamedPrinterQueueItem();
+                LMPrinterQueueItem qiTemplate = new LMPrinterQueueItem();
                 qiTemplate.printerName = printerName;  // THIS IS THE MAIN CHANGE.  Set the destination printer name in the template so as to retrieve only the correct print jobs
-                NamedPrinterQueueItem nextJob = (NamedPrinterQueueItem)space.take(qiTemplate,null, TWO_SECONDS);
+                LMPrinterQueueItem nextJob = (LMPrinterQueueItem)space.take(qiTemplate,null, TWO_SECONDS);
                 if (nextJob == null) {
                     // no print job was found, so sleep for a couple of seconds and try again
                     Thread.sleep(TWO_SECONDS);
